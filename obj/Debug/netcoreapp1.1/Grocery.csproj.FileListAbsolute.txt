@@ -1,0 +1,8 @@
+/home/bhupesh/Documents/dotnet core/Grocery/bin/Debug/netcoreapp1.1/Grocery.deps.json
+/home/bhupesh/Documents/dotnet core/Grocery/bin/Debug/netcoreapp1.1/Grocery.runtimeconfig.json
+/home/bhupesh/Documents/dotnet core/Grocery/bin/Debug/netcoreapp1.1/Grocery.runtimeconfig.dev.json
+/home/bhupesh/Documents/dotnet core/Grocery/bin/Debug/netcoreapp1.1/Grocery.dll
+/home/bhupesh/Documents/dotnet core/Grocery/bin/Debug/netcoreapp1.1/Grocery.pdb
+/home/bhupesh/Documents/dotnet core/Grocery/obj/Debug/netcoreapp1.1/Grocery.AssemblyInfo.cs
+/home/bhupesh/Documents/dotnet core/Grocery/obj/Debug/netcoreapp1.1/Grocery.dll
+/home/bhupesh/Documents/dotnet core/Grocery/obj/Debug/netcoreapp1.1/Grocery.pdb
